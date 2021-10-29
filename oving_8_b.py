@@ -12,6 +12,7 @@ Created on Thu Oct 21 17:18:42 2021
 # 3
 # 4
 
+# ekstra tekst 
 
 class Quiz:
     def __init__(self, spor, svar, fasit):
